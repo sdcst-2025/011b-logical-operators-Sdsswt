@@ -31,3 +31,12 @@ Enter a number: 8
 Enter a number: 64
 64 is both a perfect square and divisible by 2.
 """
+
+x = float(input("enter a number "))
+
+if x %
+
+
+print(f"{x} is both a perfect square and a divisible by 2")
+print(f"{x} is only a perfect square")
+print(f"{x} is only divisible by 2")
